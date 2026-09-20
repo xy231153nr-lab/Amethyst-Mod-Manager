@@ -26,3 +26,5 @@ REQUIREMENT_FILTER_URL = (
     "https://raw.githubusercontent.com/ChrisDKN/Amethyst-Mod-Manager/main/src/Nexus/updatefilter.txt"
 )
 _FETCH_TIMEOUT = 10
+def resolve():
+	
